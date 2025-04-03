@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240290760447",
+    "project_id": "fir-t1-ba69b",
+    "storage_bucket": "fir-t1-ba69b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240290760447:android:ab9601a3fca47784de6eca",
+        "android_client_info": {
+          "package_name": "com.example.letscount_pm1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtIgHvvI8TNM0cLEIEppO3lloD1u80abo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
