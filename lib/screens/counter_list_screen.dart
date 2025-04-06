@@ -3,6 +3,8 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import '../services/counter_service.dart';
 
 class CounterListScreen extends StatelessWidget {
+  const CounterListScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
